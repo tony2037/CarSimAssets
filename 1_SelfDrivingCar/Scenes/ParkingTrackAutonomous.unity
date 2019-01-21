@@ -4478,6 +4478,7 @@ MonoBehaviour:
   m_Reward: 0
   m_Emit: 0
   pause: 0
+  m_ifDone: 0
 --- !u!54 &945085653
 Rigidbody:
   m_ObjectHideFlags: 0
