@@ -1,0 +1,11 @@
+{
+"Position_X_min": 170,
+"Position_X_max": 200,
+"Position_Z_min": -50,
+"Position_Z_max": -42,
+"Rotation_Y_min": 70,
+"Rotation_Y_max": 120,
+"Step_X": 2,
+"Step_Z": 2,
+"Angle_Y": 5
+}
